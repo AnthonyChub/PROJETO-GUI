@@ -1,0 +1,42 @@
+/*{
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+    VERDE: #d1f593
+    AZUL ESCURO: #283048
+    CINZA: #859398
+}
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #010102;
+}
+#ARRUMAR, #Arrumado{
+    margin-left: 2em;
+}
+ 
+#LOGO{
+background-color:#d1f593;
+}
+
+#telefone-menu, #nome-site, p, h3,time{
+    color: #d1f593;
+}
+
+#titulo-header{
+    font-family: 'League Spartan', sans-serif;
+}
+
+.Sobre{
+    font-family: 'League Spartan', sans-serif;
+}
+
+.Processos{
+    margin-left: 1em;
+}
+h3{
+    color: white;
+}
